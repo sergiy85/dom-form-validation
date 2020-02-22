@@ -1,0 +1,11 @@
+.form-group{
+  width: 50%;
+  border: 1px solid #000;
+  margin: 0 auto;
+  background: #eee;
+}
+p{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
